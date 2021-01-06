@@ -1,0 +1,12 @@
+{
+  "foods": [
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Moda Italiaba",
+      "price": "29,90",
+      "description": "Macarão ao molho branco",
+      "available": true,
+      "id": 1
+    }
+  ]
+}
